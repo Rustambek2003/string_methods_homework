@@ -6,5 +6,5 @@ def main(s):
     Returns:
         bool: answer
     """
-    
-    return
+    x = s.upper()
+    return s == x
